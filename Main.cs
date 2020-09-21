@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using CitizenFX.Core;
 using CitizenFX.Core.Native;
-using Fnrp.Fivem.Common.Client;
+using Default.Fivem.Common.Client;
 
 namespace DensitySuppression.Client
 {
